@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+
+.btn {
+  padding: 30px;
+  border: 1px dotted blue;
+  background: lightblue;
+  border-radius: 5px;
+}
